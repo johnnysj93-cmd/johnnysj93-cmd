@@ -3,6 +3,8 @@
 Estudiante de **ASIX con perfil de Ciberseguridad** y **Técnico en Sistemas Microinformáticos**.
 Me interesan los sistemas, las redes y la seguridad. Aquí subo los proyectos y laboratorios que voy haciendo mientras aprendo.
 
+📄 **Mi CV:** [johnnysj93-cmd.github.io](https://johnnysj93-cmd.github.io)
+
 ### 🎓 Formación
 - **CFGS ASIX – Ciberseguridad** · Linkia FP (en curso, 2.º curso)
 - **Configuración de Redes** · curso de 310 h (2026)
